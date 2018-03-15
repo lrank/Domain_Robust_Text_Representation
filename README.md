@@ -1,2 +1,2 @@
 # Domain_Robust_LID
-The code for domain-robust language identification with adversarial loss
+The code for domain-robust text representation learning using language identification task with adversarial loss
